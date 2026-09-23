@@ -1,0 +1,6 @@
+{
+  "name": "WorkNook — Work & Study Spots Directory",
+  "description": "Find productive cafes, quiet libraries, and focus-ready co-working spaces filtered by wifi quality, power outlets, noise level, and seating comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
